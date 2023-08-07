@@ -1,7 +1,5 @@
-function Search(){
-    return (
-        <h2>Search page</h2>
-    )
+function Search() {
+  return <h2>Search page</h2>;
 }
 
-export default Search
+export default Search;

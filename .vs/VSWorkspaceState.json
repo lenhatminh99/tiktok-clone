@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\assets",
+    "\\src\\components",
+    "\\src\\components\\Button",
+    "\\src\\components\\GlobalStyles",
+    "\\src\\components\\Image",
+    "\\src\\components\\Popper",
+    "\\src\\components\\Popper\\Menu",
+    "\\src\\layouts",
+    "\\src\\layouts\\HeaderOnly"
+  ],
+  "SelectedNode": "\\src\\dev",
+  "PreviewInSolutionExplorer": false
+}
